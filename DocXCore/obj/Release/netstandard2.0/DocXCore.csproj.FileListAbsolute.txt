@@ -1,0 +1,9 @@
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\bin\Release\netstandard2.0\DocXCore.deps.json
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\bin\Release\netstandard2.0\DocXCore.dll
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\bin\Release\netstandard2.0\DocXCore.pdb
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\obj\Release\netstandard2.0\DocXCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\obj\Release\netstandard2.0\DocXCore.AssemblyInfoInputs.cache
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\obj\Release\netstandard2.0\DocXCore.AssemblyInfo.cs
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\obj\Release\netstandard2.0\DocXCore.csproj.CoreCompileInputs.cache
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\obj\Release\netstandard2.0\DocXCore.dll
+D:\Code\End\kzcloud\源代码\Docx\DocXCore\obj\Release\netstandard2.0\DocXCore.pdb
